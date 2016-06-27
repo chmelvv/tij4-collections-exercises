@@ -4,6 +4,8 @@
 * Countries. Sort the list and print it, then apply Collections.shuffle()
 * to the list repeatedly, printing it each time so that you can see how
 * the shuffle() method randomizes the list differently each time.
+*
+* Answer - http://greggordon.org/java/tij4/containers/Ex1.java
 */
 
 import java.util.ArrayList;
